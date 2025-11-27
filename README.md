@@ -2,4 +2,4 @@
 - 👋 Hi, I’m @ryanlacey
 - 🌱 I’m a BSc Computer Science graduate of University College Cork.
 - 😄 Personal website: https://ryanlacey.ie/
-- 🔭 Currently employed as an Engineering and Data Collection, & Junior Technical Support @ GlobeTech
+- 🔭 Currently employed as Executive Officer - Software Development @(CSO) Central Statistics Office (Data analysis, Database Management, Software Development)
